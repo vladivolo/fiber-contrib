@@ -1,4 +1,4 @@
-module github.com/gofiber/contrib/jwt
+module github.com/vladivolo/fiber-contrib/jwt
 
 go 1.18
 
